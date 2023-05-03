@@ -1,0 +1,12 @@
+section{
+    margin-top: 50px;
+}
+
+.card img{
+    transition: 3s;
+}
+
+.card img:hover{
+    transform: scale(1.05);
+    transition: 2s;
+}
